@@ -1,4 +1,4 @@
-
+-hinzugefügt
 ### Zweck von Branches in der Entwicklung
 
 Branches sind parallele Arbeitsbereiche innerhalb eines Git-Repositories. Sie ermöglichen es Entwicklern, neue Features oder Bugfixes zu entwickeln, ohne den Hauptzweig (oft `main` oder `master` genannt) zu beeinträchtigen. Dies fördert eine saubere und organisierte Entwicklung und erleichtert die Zusammenarbeit im Team.
